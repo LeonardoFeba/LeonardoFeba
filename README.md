@@ -1,7 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=024241&t%20text"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=175&color=024241&t%20text"/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoFeba&show_icons=true&theme=dracula&count_private=true)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+LEONARDO+FEBA;I'm+25+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 ## Technologies I work with
 
 <div style="display: inline_block">
